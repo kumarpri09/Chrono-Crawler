@@ -1,0 +1,6 @@
+{
+  "name": "Chrono Crawler: Itch.io Web Game & GDD Studio",
+  "description": "An arcade roguelike web game optimized for itch.io with a complete professional Game Design Document and publisher toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
